@@ -1,0 +1,34 @@
+section#competences {
+    position: relative;
+    top: 5rem;
+    padding: 0;
+    background: var(--color-light);
+    margin: 0;
+}
+.container__competences {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    align-items: center;
+    gap: 2rem;
+}
+.container__competences span {
+    padding: 2.4rem;
+}
+@media screen and (max-width: 1024px) {
+    .container__competences {
+        gap: 0;
+    }
+    .container__competences span {
+        padding: 1.5rem;
+    }
+}
+@media screen and (max-width: 600px) {
+    .container__competences {
+        grid-template-columns: repeat(3 1fr);
+    }
+    .container__competences span {
+        height: 5rem;
+        display: grid;
+        place-items: center;
+    }
+}

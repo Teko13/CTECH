@@ -1,0 +1,23 @@
+#partener {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#partener h4 {
+    color: white;
+}
+.partener__list {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.partener__list li h5 {
+    color: white;
+}
+@media screen and (max-width: 600px) {
+    .partener__list {
+        flex-direction: column;
+        align-items: center;
+    }
+}
