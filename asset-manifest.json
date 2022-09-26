@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/CTECH/static/css/main.5efd9895.css",
+    "main.js": "/CTECH/static/js/main.f6f4384d.js",
+    "static/js/787.b9e2061d.chunk.js": "/CTECH/static/js/787.b9e2061d.chunk.js",
+    "static/media/ego.pdf": "/CTECH/static/media/ego.b3efe7f02518c0e25aa6.pdf",
+    "static/media/tech-bg.png": "/CTECH/static/media/tech-bg.3f04d8e13315234b241f.png",
+    "static/media/construction-bg.jpg": "/CTECH/static/media/construction-bg.88f476000856336ddc11.jpg",
+    "static/media/card-visite-ctech.pdf": "/CTECH/static/media/card-visite-ctech.139558fdfc386b7b4a00.pdf",
+    "static/media/immobilier-bg.jpg": "/CTECH/static/media/immobilier-bg.4b375a35a551612ad8e0.jpg",
+    "static/media/ctech-logo-couleur.png": "/CTECH/static/media/ctech-logo-couleur.43fba2f675f5ad6a9781.png",
+    "static/media/logo-sagemcom.jpg": "/CTECH/static/media/logo-sagemcom.072ee45a9ad181ab5666.jpg",
+    "static/media/icon-imobilier.png": "/CTECH/static/media/icon-imobilier.a3dd4d0a4b2c7ff32735.png",
+    "static/media/icon-tech.png": "/CTECH/static/media/icon-tech.4ffd108e10ceccd65c49.png",
+    "static/media/image-a-360-.png": "/CTECH/static/media/image-a-360-.5968edb06134c104fc50.png",
+    "static/media/logo-tabis.jpg": "/CTECH/static/media/logo-tabis.6e1292353fa508664e6f.jpg",
+    "static/media/icon-construction.png": "/CTECH/static/media/icon-construction.b5adabc824d315e728ec.png",
+    "index.html": "/CTECH/index.html",
+    "main.5efd9895.css.map": "/CTECH/static/css/main.5efd9895.css.map",
+    "main.f6f4384d.js.map": "/CTECH/static/js/main.f6f4384d.js.map",
+    "787.b9e2061d.chunk.js.map": "/CTECH/static/js/787.b9e2061d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5efd9895.css",
+    "static/js/main.f6f4384d.js"
+  ]
+}
